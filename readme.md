@@ -1,4 +1,4 @@
-## multi client chatroom server:
+## multi client chatroom server in C:
 author:Ali Reza Aboofazeli
 
 
